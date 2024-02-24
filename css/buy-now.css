@@ -1,0 +1,19 @@
+.dessign{
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: start;
+}
+
+.data{
+    border: 2px solid black;
+    width: 250px;
+    height: 320px;
+    background-color: rgb(500,200,200);
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 1px;
+    margin: 10px;
+    padding: 10px;
+}

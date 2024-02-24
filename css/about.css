@@ -1,0 +1,33 @@
+.child{
+    border: 2px solid black;
+    width: 250px;
+    height: 420px;
+    background-color: rgb(500,200,200);
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 1px;
+}
+.food-img{
+    height: 200px;
+    border-radius: 10px;
+}
+.food-tital{
+    padding: 10px;
+    margin: 10px;
+    font-size: medium;
+}
+.parent{
+    height: 870px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: start;
+}
+.for-shopping{
+    background-color: black;
+    color: white;
+    border:none;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-left: 60px;
+}
